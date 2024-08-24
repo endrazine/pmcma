@@ -1,0 +1,5 @@
+/tmp/pmcma/beaengine/CMakeFiles/edit_cache.dir
+/tmp/pmcma/beaengine/CMakeFiles/rebuild_cache.dir
+/tmp/pmcma/beaengine/obj/Linux.gnu.Debug/beaengineSources/CMakeFiles/BeaEngine_s_d.dir
+/tmp/pmcma/beaengine/obj/Linux.gnu.Debug/beaengineSources/CMakeFiles/edit_cache.dir
+/tmp/pmcma/beaengine/obj/Linux.gnu.Debug/beaengineSources/CMakeFiles/rebuild_cache.dir
