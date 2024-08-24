@@ -8,6 +8,10 @@
   What is it?
   -----------
 
+  This tool has been presented at Blackhat USA in 2011
+  by Jonathan Brossard. 
+  See https://www.blackhat.com/html/bh-us-11/bh-us-11-speaker_bios.html#Brossard
+
   Pmcma is a tool aimed at determining if a given software bug
   is an exploitable vulnerability by automatically writing an
   exploit for it.
